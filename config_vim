@@ -1,0 +1,20 @@
+ ~/.config/nvim/init.vim
+ 
+ syntax on                                                                                                             2 set number
+ 3 set mouse=a
+ 4 set sw=2
+ 5 set expandtab
+ 6 set smartindent
+ 7 set numberwidth=1
+ 8 set nowrap
+ 9 set noswapfile
+10 set nobackup
+11 set incsearch
+12 set ignorecase
+13 set clipboard=unnamedplus
+14 set encoding=utf-8
+15 set showmatch
+16 set cursorline
+17 set termguicolors
+18 set colorcolumn=120
+19 highlight ColoColumn ctermbg=0 guibg=lightgrey 
